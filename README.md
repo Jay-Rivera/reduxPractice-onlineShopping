@@ -1,16 +1,106 @@
-# React + Vite
+🛍️ React Redux Product Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A practice e-commerce application built with React, Redux Toolkit, React Router DOM, and Bootstrap.
 
-Currently, two official plugins are available:
+This project was created to strengthen my understanding of global state management with Redux Toolkit while becoming more comfortable with responsive UI development using Bootstrap.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Project Purpose
 
-## React Compiler
+The goal of this project is to:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Gain hands-on experience with Redux Toolkit
 
-## Expanding the ESLint configuration
+Practice managing asynchronous state with a fake API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Improve routing structure using React Router DOM
+
+Strengthen layout and styling skills with Bootstrap
+
+Build confidence with scalable React application structure
+
+This is a learning-focused project built to deepen my understanding of Redux patterns and state flow in real-world applications.
+
+🧠 What I Practiced
+
+Creating and structuring Redux slices
+
+Using createSlice
+
+Managing async logic (thunks)
+
+Connecting components with useSelector and useDispatch
+
+Structuring routes with React Router
+
+Building responsive UI layouts with Bootstrap
+
+Separating concerns between UI and global state
+
+🛠️ Tech Stack
+
+React
+
+Redux Toolkit
+
+React Router DOM
+
+Bootstrap
+
+Fake Products API (for practicing async Redux logic)
+
+📂 Features
+
+Product listing page
+
+Dynamic routing for product details
+
+Global state management with Redux
+
+Async data fetching from a fake API
+
+Responsive layout using Bootstrap components
+
+Clean component-based architecture
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/your-repo-name.git
+
+Navigate into the project:
+
+cd your-repo-name
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
+🧩 Future Improvements
+
+Add cart functionality
+
+Implement loading and error states more robustly
+
+Add filtering and sorting
+
+Improve UI polish and animations
+
+Deploy the project
+
+🎯 What I Learned
+
+This project helped me:
+
+Understand how Redux Toolkit simplifies Redux setup
+
+Manage async state cleanly
+
+Structure a growing React application properly
+
+Think more clearly about state ownership and data flow
+
+Most importantly, it increased my comfort level with Redux and reinforced best practices for scalable frontend applications.
