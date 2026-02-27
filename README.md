@@ -1,10 +1,10 @@
-🛍️ React Redux Product Store
+# React Redux Product Store
 
 A practice e-commerce application built with React, Redux Toolkit, React Router DOM, and Bootstrap.
 
 This project was created to strengthen my understanding of global state management with Redux Toolkit while becoming more comfortable with responsive UI development using Bootstrap.
 
-🚀 Project Purpose
+## Project Purpose
 
 The goal of this project is to:
 
@@ -20,7 +20,7 @@ Build confidence with scalable React application structure
 
 This is a learning-focused project built to deepen my understanding of Redux patterns and state flow in real-world applications.
 
-🧠 What I Practiced
+## What I Practiced
 
 Creating and structuring Redux slices
 
@@ -36,7 +36,7 @@ Building responsive UI layouts with Bootstrap
 
 Separating concerns between UI and global state
 
-🛠️ Tech Stack
+## Tech Stack
 
 React
 
@@ -62,7 +62,7 @@ Responsive layout using Bootstrap components
 
 Clean component-based architecture
 
-📦 Installation
+## Installation
 
 Clone the repository:
 
@@ -79,7 +79,8 @@ npm install
 Start the development server:
 
 npm start
-🧩 Future Improvements
+
+## Future Improvements
 
 Add cart functionality
 
@@ -91,7 +92,7 @@ Improve UI polish and animations
 
 Deploy the project
 
-🎯 What I Learned
+## What I Learned
 
 This project helped me:
 
